@@ -1,0 +1,50 @@
+.signup {
+    background-color: #1785E6;
+    width: 30vw;
+    border-radius: 20px;
+    text-align: center;
+    padding-top: 5vh;
+    color: #FFD500;
+    padding-bottom: 5vh;
+    position: fixed;
+    top: 20vh;
+    left: 35vw;
+}
+
+.signup h2{
+    margin-top: 7vh;
+    margin-bottom: 4vh;
+}
+
+.signup input{
+    text-align: center;
+    padding-bottom: 0.6vh;
+    outline: none;
+    background-color: rgba(0, 0, 0, 0);
+    border: solid;
+    border-color: #FFD500;
+    color: #FFD500;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    width: 25vw;
+    margin: 0.7em;
+}
+.signup input::placeholder{
+    color: #FCEC9A;
+}
+
+.signup button{
+    outline: none;
+    color: #FFD500;
+    background-color: #D43F00;
+    border: none;
+    border-radius: 20px;
+    padding: 0.4em;
+    margin: 0.4em;
+    width: 25vw;
+}
+.link {
+    color: #FFD500;
+    text-decoration: none;
+}
